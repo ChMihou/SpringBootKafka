@@ -6,11 +6,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.Optional;
 
-/**
- * @Author: Xiaour
- * @Description:
- * @Date: 2018/5/22 15:03
- */
 @Component
 public class Consumer {
 
